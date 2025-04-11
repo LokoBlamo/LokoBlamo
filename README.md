@@ -2,7 +2,7 @@
 
   <!-- dynamic typing effect 动态打字效果 -->
   <div>
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=27&pause=1000&width=435&lines=Hello+World%EF%BC%81;lokoblamo+%E7%A5%9D%E6%82%A8%E4%BB%8A%E5%A4%A9%E5%BF%AB%E4%B9%90%EF%BC%81" alt="Typing SVG" center="true" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=27&pause=1000&width=435&lines=Hello+World%EF%BC%81;lokoblamo+%E7%A5%9D%E6%82%A8%E4%BB%8A%E5%A4%A9%E5%BF%AB%E4%B9%90%EF%BC%81" alt="Typing SVG" center=true /></a>
   </div>
 
   <!-- knock code pictures 敲代码的图片 -->
